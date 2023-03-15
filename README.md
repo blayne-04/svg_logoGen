@@ -8,7 +8,7 @@ Unlicensed
   5. [Testing](#testing)
   6. [License](#license)
   7. [Questions](#questions)
-  8. [Resources](#resources)
+  8. [Acknowledgments](#acknowledgments)
   9. [Tutorial](#tutorial)
 ## Description 
 `Generates an SVG file containing a circle, triangle, or square, with different colors and text based on user input`
@@ -32,7 +32,7 @@ Unlicensed
 - [Github Profile](https://github.com/blayne-04)
 - If you can't find the answer to your questions on my github profile feel free to contact me at befuller2004@gmail.com
 
-# Resources
+# Acknowledgments 
 - [List of all SVG color keywords](https://upload.wikimedia.org/wikipedia/commons/2/2b/SVG_Recognized_color_keyword_names.svg)
 - [SVG Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
 - [Basic Shapes With SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes)
