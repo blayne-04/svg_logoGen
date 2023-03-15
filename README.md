@@ -41,4 +41,4 @@ Unlicensed
 - [Javascript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 ## Tutorial
-[SVG Generator Tutorial](https://user-images.githubusercontent.com/107909315/225211223-c14bb9e1-766d-44e3-aeee-96969b26d4a5.webm)
+https://user-images.githubusercontent.com/107909315/225211393-1a94b055-8a29-48e0-b92d-1ea01f5d5671.mp4
